@@ -1,2 +1,2 @@
 # FilterMatrix
-Test exercise from some company - filter zero values in 2D matrix read from CSV file.
+Test exercise from some company - read 2D matrix from CSV file, replace zero values with interpolation of their spatial neighbours, write to CSV file.
